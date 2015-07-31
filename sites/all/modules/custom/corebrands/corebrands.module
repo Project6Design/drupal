@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * @file.
+ * Customization for all websites under Core Brands roof.
+ */
+
+/**
+ * Implements hook_init().
+ */
+// function corebrands_init() {}
